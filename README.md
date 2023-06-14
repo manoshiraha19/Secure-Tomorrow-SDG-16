@@ -8,7 +8,7 @@ The Secure Tomorrow project aligns with Sustainable Development Goal 16 (SDG 16)
 
 The project contributes to SDG 16 by addressing the specific target of ending abuse, exploitation, trafficking, and violence against adolescents. By leveraging machine learning techniques, the project seeks to prevent and combat these forms of violence, thereby promoting a more just and peaceful society.
 
-Furthermore, the project supports the establishment of effective and accountable institutions by developing a robust machine learning model that can be integrated into existing systems or applications. This model enhances the capability to detect and intervene in instances of abuse, exploitation, trafficking, and violence, strengthening the institutional response to safeguarding adolescents' rights and well-being.
+Furthermore, the project supports the establishment of effective and accountable institutions by developing a robust machine-learning model that can be integrated into existing systems or applications. This model enhances the capability to detect and intervene in instances of abuse, exploitation, trafficking, and violence, strengthening the institutional response to safeguarding adolescents' rights and well-being.
 
 In summary, the Secure Tomorrow project directly supports SDG 16 by actively working towards the prevention of violence against adolescents and fostering the establishment of strong, accountable institutions that protect the rights and safety of young individuals.
 
@@ -16,7 +16,7 @@ Secure Tomorrow is a machine learning initiative dedicated to contributing to gl
 
 ## Project Overview
 
-The objective of the Secure Tomorrow project is to develop a robust machine learning model that can detect, prevent, and combat various forms of abuse, exploitation, trafficking, and violence targeted at adolescents. By analyzing relevant data, identifying patterns, and leveraging advanced algorithms, this project seeks to provide early intervention, raise awareness, and ultimately contribute to the global mission of eradicating these injustices.
+The objective of the Secure Tomorrow project is to develop a robust machine-learning model that can detect, prevent, and combat various forms of abuse, exploitation, trafficking, and violence targeted at adolescents. This project seeks to provide early intervention, raise awareness, and ultimately contribute to the global mission of eradicating these injustices by analyzing relevant data, identifying patterns, and leveraging advanced algorithms.
 
 ## Getting Started
 
@@ -26,7 +26,7 @@ To run the Secure Tomorrow project, ensure you have the following dependencies i
 
 - Python 
 - TensorFlow 
-- scikit-learn 
+- sci-kit-learn 
 - Pandas
 - NumPy 
 
