@@ -70,7 +70,7 @@ To run the Secure Tomorrow project, ensure you have the following dependencies i
 4. Deploy and utilize the model:
 
    - Integrate the trained model into the desired application or system.
-   - Monitor and update the model periodically to ensure its effectiveness and adaptability.
+   - Monitor and update the model periodically to ensure its effectiveness and adaptability..
 
 ## Contributing
 
