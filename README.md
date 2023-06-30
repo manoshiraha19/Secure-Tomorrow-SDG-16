@@ -14,10 +14,6 @@ In summary, the Secure Tomorrow project directly supports SDG 16 by actively wor
 
 # Secure Tomorrow: Machine Learning Model for Classifying Attempted Suicide Rates Among Adolescents
 
-## Overview
-
-Welcome to the Secure Tomorrow project! This repository contains a machine learning model developed to classify attempted suicide rates among adolescents. The model utilizes a decision tree classifier and is trained on a comprehensive dataset comprising 10 core modules addressing the leading causes of morbidity and mortality among children and adults worldwide. These modules encompass alcohol use, dietary behaviors, drug use, hygiene, mental health, physical activity, protective factors, sexual behaviors, tobacco use, violence, and unintentional injury.
-
 ## Purpose
 
 The primary objective of the Secure Tomorrow project is to leverage the power of machine learning to predict suicide risk among adolescents based on their behavioral patterns and various characteristics. By analyzing the key factors influencing suicide attempts, our aim is to provide valuable insights to mental health professionals, educators, and policymakers, facilitating the design and implementation of targeted prevention strategies and support programs.
