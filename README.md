@@ -20,7 +20,24 @@ The primary objective of the Secure Tomorrow project is to leverage the power of
 
 ## Dataset
 
-The dataset used for training and evaluating the machine learning model is an extensive compilation of information from various reputable sources, including global health organizations and research studies. It covers a wide range of behavioral aspects, demographic variables, and suicide-related data, allowing the model to make informed predictions.
+The dataset used for training and evaluating the machine learning model is an extensive compilation of information from various reputable sources, including global health organizations and research studies. It covers a wide range of behavioral aspects, demographic variables, and suicide-related data, allowing the model to make informed predictions. The various Columns in the dataset are: 
+- Country
+- Year
+- Age Group
+- Sex
+- Currently_Drink_Alcohol
+- Really_Get_Drunk
+- Overweight
+- Use_Marijuana
+- Have_Understanding_Parents
+- Missed_classes_without_permssion
+- Had_sexual_relation
+- Smoke_cig_currently
+- Had_fights
+- Bullied
+- Got_Seriously_injured
+- No_close_friends
+- Attempted_suicide   
 
 ## Getting Started
 
