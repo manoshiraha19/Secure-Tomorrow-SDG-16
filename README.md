@@ -2,7 +2,7 @@
 
 <center><img src="https://www.un.org/sustainabledevelopment/wp-content/uploads/2015/12/english_SDG_17goals_poster_all_languages_with_UN_emblem_1.png"></center>
 
-## Secure Tomorrow's Contribution to SDG 16 : Peace, Justice and Strong Institutions
+## Secure Tomorrow's Contribution to SDG 16: Peace, Justice, and Strong Institutions
 
 The Secure Tomorrow project aligns with Sustainable Development Goal 16 (SDG 16) - "Peace, Justice, and Strong Institutions." SDG 16 aims to promote peaceful and inclusive societies, provide access to justice for all, and build effective, accountable, and inclusive institutions at all levels.
 
@@ -12,11 +12,19 @@ Furthermore, the project supports the establishment of effective and accountable
 
 In summary, the Secure Tomorrow project directly supports SDG 16 by actively working towards the prevention of violence against adolescents and fostering the establishment of strong, accountable institutions that protect the rights and safety of young individuals.
 
-Secure Tomorrow is a machine learning initiative dedicated to contributing to global efforts in ending abuse, exploitation, trafficking, and all forms of violence against and torture of adolescents. By leveraging the power of machine learning algorithms and techniques, this project aims to create a safer future for young individuals.
+# Secure Tomorrow: Machine Learning Model for Classifying Attempted Suicide Rates Among Adolescents
 
-## Project Overview
+## Overview
 
-The objective of the Secure Tomorrow project is to develop a robust machine-learning model that can detect, prevent, and combat various forms of abuse, exploitation, trafficking, and violence targeted at adolescents. This project seeks to provide early intervention, raise awareness, and ultimately contribute to the global mission of eradicating these injustices by analyzing relevant data, identifying patterns, and leveraging advanced algorithms.
+Welcome to the Secure Tomorrow project! This repository contains a machine learning model developed to classify attempted suicide rates among adolescents. The model utilizes a decision tree classifier and is trained on a comprehensive dataset comprising 10 core modules addressing the leading causes of morbidity and mortality among children and adults worldwide. These modules encompass alcohol use, dietary behaviors, drug use, hygiene, mental health, physical activity, protective factors, sexual behaviors, tobacco use, violence, and unintentional injury.
+
+## Purpose
+
+The primary objective of the Secure Tomorrow project is to leverage the power of machine learning to predict suicide risk among adolescents based on their behavioral patterns and various characteristics. By analyzing the key factors influencing suicide attempts, our aim is to provide valuable insights to mental health professionals, educators, and policymakers, facilitating the design and implementation of targeted prevention strategies and support programs.
+
+## Dataset
+
+The dataset used for training and evaluating the machine learning model is an extensive compilation of information from various reputable sources, including global health organizations and research studies. It covers a wide range of behavioral aspects, demographic variables, and suicide-related data, allowing the model to make informed predictions.
 
 ## Getting Started
 
@@ -50,7 +58,29 @@ To run the Secure Tomorrow project, ensure you have the following dependencies i
    pip install -r requirements.txt
    ```
 
-### Usage
+## Methodology
+
+The project follows a systematic approach to build and evaluate the machine learning model:
+
+1. Data Collection: Curating a diverse and comprehensive dataset containing information on the 10 core modules related to morbidity and mortality among adolescents.
+
+2. Data Preprocessing: Cleaning, transforming, and preparing the dataset for analysis to ensure data quality and consistency.
+
+3. Feature Engineering: Identifying relevant features and extracting essential information from the dataset to represent behavioral patterns effectively.
+
+4. Model Selection: Choosing the decision tree classifier due to its interpretability and ability to handle both numeric and categorical data.
+
+5. Model Training: Splitting the dataset into training and testing sets, then training the decision tree classifier on the training data.
+
+6. Model Evaluation: Assessing the model's performance using various metrics like accuracy, precision, recall, and F1-score.
+
+7. Interpretation: Understanding the decision-making process of the model by visualizing the decision tree and identifying significant factors affecting suicide risk.
+
+## Result
+
+The Secure Tomorrow project aims to achieve accurate predictions of attempted suicide rates among adolescents using the trained decision tree classifier. The model's output will provide a risk score, indicating the likelihood of an adolescent attempting suicide based on their behavioral data. These results can empower mental health professionals and educators with valuable information to identify at-risk individuals and implement timely interventions.
+
+## Usage
 
 1. Prepare the dataset:
 
@@ -71,16 +101,27 @@ To run the Secure Tomorrow project, ensure you have the following dependencies i
 
    - Integrate the trained model into the desired application or system.
    - Monitor and update the model periodically to ensure its effectiveness and adaptability.
+## Future Scope
 
-## Contributing
+The Secure Tomorrow project has exciting future possibilities, including:
 
-We welcome contributions to the Secure Tomorrow project. If you have any suggestions, improvements, or bug fixes, please submit a pull request. For major changes, kindly open an issue to discuss the proposed modifications.
+- Exploring more sophisticated machine learning algorithms or ensemble methods to improve model performance.
+- Incorporating additional data sources, such as social media or electronic health records, to enhance predictive capabilities.
+- Deploying the model in real-world settings like schools or healthcare centers to support suicide prevention efforts.
 
+## Contribution
+
+We welcome contributions to the Secure Tomorrow project. Whether it's enhancing the model, improving data preprocessing, or adding new features, your contributions can make a meaningful impact on suicide prevention among adolescents.
+
+Let's work together to create a safer and more supportive environment for the next generation.
 
 ## Acknowledgments
 
 We extend our gratitude to all the individuals, organizations, and open-source contributors who have provided valuable resources, datasets, and support for this project. Together, we can make a significant impact in ending abuse, exploitation, trafficking, and violence against adolescents.
 
-For more information or inquiries, please feel free to contact!
+For more information or inquiries, please feel free to contact us!
 
 Remember, every effort counts in building a safer and more compassionate world for future generations. Let's Secure Tomorrow together!
+---
+
+Thank you for your interest in the Secure Tomorrow project. We believe that by combining machine learning with our collective efforts, we can work towards a brighter and safer future for adolescents around us!
